@@ -1,0 +1,3 @@
+G:/Programming/C++/Turbofan_surrogate/cmake-build-debug/CMakeFiles/Turbofan_surrogate.dir
+G:/Programming/C++/Turbofan_surrogate/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Programming/C++/Turbofan_surrogate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
